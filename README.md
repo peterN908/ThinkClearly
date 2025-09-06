@@ -182,8 +182,8 @@ Practically, this fits perfectly on a A40 (48 GB VRAM)
 
 ## References:
 
-- Janus (DeepSeek) base model: `https://github.com/deepseek-ai/Janus`
-- ShareGPT-4o-Image repo and model (FreedomIntelligence): `https://github.com/FreedomIntelligence/ShareGPT-4o-Image`
-- ShareGPT-4o-Image dataset (HF): `https://huggingface.co/datasets/FreedomIntelligence/ShareGPT-4o-Image`
-- MagicBrush dataset (HF): `https://huggingface.co/datasets/osunlp/MagicBrush`
-- MagicBrush dataset (paper/project): `https://arxiv.org/abs/2306.10012`, `https://osu-nlp-group.github.io/MagicBrush/`
+- [Janus (DeepSeek) base model](https://github.com/deepseek-ai/Janus)
+- [ShareGPT-4o-Image repo & model (FreedomIntelligence)](https://github.com/FreedomIntelligence/ShareGPT-4o-Image)
+- [ShareGPT-4o-Image dataset (Hugging Face)](https://huggingface.co/datasets/FreedomIntelligence/ShareGPT-4o-Image)
+- [MagicBrush dataset (Hugging Face)](https://huggingface.co/datasets/osunlp/MagicBrush)
+- MagicBrush paper/project: [arXiv:2306.10012](https://arxiv.org/abs/2306.10012) · [project page](https://osu-nlp-group.github.io/MagicBrush/)
